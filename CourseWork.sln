@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseWork", "CourseWork\CourseWork.csproj", "{68EF139C-7E11-4923-8F71-6A9BEC6016BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{F5160DD0-9378-4E76-AEA9-172552A8FCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{A2702A8E-8A44-457F-9B81-3BDE38EEC6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EF139C-7E11-4923-8F71-6A9BEC6016BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EF139C-7E11-4923-8F71-6A9BEC6016BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EF139C-7E11-4923-8F71-6A9BEC6016BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EF139C-7E11-4923-8F71-6A9BEC6016BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5160DD0-9378-4E76-AEA9-172552A8FCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5160DD0-9378-4E76-AEA9-172552A8FCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5160DD0-9378-4E76-AEA9-172552A8FCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5160DD0-9378-4E76-AEA9-172552A8FCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2702A8E-8A44-457F-9B81-3BDE38EEC6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2702A8E-8A44-457F-9B81-3BDE38EEC6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2702A8E-8A44-457F-9B81-3BDE38EEC6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2702A8E-8A44-457F-9B81-3BDE38EEC6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
